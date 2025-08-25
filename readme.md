@@ -49,7 +49,4 @@ O maior aprendizado foi perceber como a combinação de dados de fontes heterog�
 O projeto resultou em um **DataFrame consolidado com informações estratégicas sobre o mercado do Airbnb em Nova York**, respondendo perguntas-chave de negócio para uma startup imobiliária.  
 Além de ajudar na consolidação e no domínio em Python e Pandas, ele demonstrou a importância da **integração de múltiplas fontes de dados**, habilidade essencial para qualquer **Engenheiro de Dados**.  
 
-👉 Este projeto está diretamente conectado à minha transição de carreira, mostrando na prática como aplicar **boas práticas de coleta, transformação e análise de dados** para gerar valor em cenários do mundo real.  
-
----
-# airbnb-market-trends
+👉 Este projeto está diretamente conectado à minha transição de carreira, mostrando na prática como aplicar **boas práticas de coleta, transformação e análise de dados** para gerar valor em cenários do mundo real.
